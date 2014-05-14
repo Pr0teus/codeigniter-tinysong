@@ -1,8 +1,6 @@
 Welcome to TinySong Library!
-Hey all!
 
-This is my Tinysong Library for CodeIgniter! you`re welcome to download and try!
-This project was first build to work with www.musicine.com
+This is a Tinysong Library for CodeIgniter! you're welcome to download and try!
 
 How it works ?
 
@@ -22,7 +20,7 @@ After this you can use it as any library:
 $this->Tinysong->getSongURL("songname");
 You can also read the Tinysong API to be sure what is be doing just follow the link http://tinysong.com/api Tinysong implements 3 simple methods
 
-Tinysong Library easy works with the same 3 methods
+Tinysong Library easy works with the same 3 methods as the API
 
 GetSongURL returns the same as /a/
 
